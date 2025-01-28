@@ -4,7 +4,7 @@ This is a tutorial project about testing with Test-Utils and Vitest in Nuxt from
 
 ## 🎓 Tutorial Source
 
-The codebase is forked from Alexander Lichter's [original repository](https://github.com/manniL/nuxt-test-utils-primer) and is based on his tutorial ["Testing in Nuxt"](https://www.youtube.com/watch?v=yGzwk9xi9gU).
+The codebase is forked from Alexander Lichter's [original repository](https://github.com/manniL/nuxt-test-utils-primer) and is based on his tutorial ["Nuxt Test Utils - A Primer to Testing in Nuxt"](https://www.youtube.com/watch?v=yGzwk9xi9gU).
 
 ## 🚀 Getting Started
 
