@@ -1,3 +1,6 @@
+// @vitest-environment nuxt
+
+// Unit tests for the AppNumber component.
 import { mockNuxtImport, mountSuspended } from "@nuxt/test-utils/runtime";
 import { it, expect, describe } from "vitest";
 import AppNumber from "./AppNumber.vue";
