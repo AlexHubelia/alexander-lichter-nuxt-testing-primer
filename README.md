@@ -23,7 +23,3 @@ bun run test
 
 - Tutorial and original content by [Alexander Lichter](https://github.com/manniL)
 - Tutorial video: [Nuxt Test Utils - A Primer to Testing in Nuxt](https://www.youtube.com/watch?v=yGzwk9xi9gU)
-
-## 📄 License
-
-See the LICENSE file for details.
