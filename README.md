@@ -1,6 +1,6 @@
 # Nuxt Testing Primer
 
-This is a tutorial project about testing with Test-Utils and Vitest in Nuxt from Alexander Lichter.
+This is a tutorial project about testing in Nuxt with Test-Utils, Vitest, and Playwright from Alexander Lichter.
 
 ## 🎓 Tutorial Source
 
