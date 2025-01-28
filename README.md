@@ -16,7 +16,7 @@ bun install
 bun run dev
 
 # Run tests
-bun run test
+bun run vitest
 ```
 
 ## 📝 Credits
